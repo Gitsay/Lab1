@@ -195,7 +195,7 @@ public class text {
 			if(Character.isLetter(exstr[cus])==false) {
 				//判断是否字符串内全部都是26个英文字母
 				if(zuc!=0) {
-					System.arraycopy(exstr, zmc , exstr1, 0, zuc);
+					//System.arraycopy(exstr, zmc , exstr1, 0, zuc);
 					//赋值一定长度数组给另一个数组
 					zmc = zmc + zuc + 1;
 					//获取下一个数组的长度
