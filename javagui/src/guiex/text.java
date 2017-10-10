@@ -33,7 +33,7 @@ public class text {
 	
 	public static void readfiles() {           //读取文件函数
 		//InputStreamReader rin = new InputStreamReader(System.in);     //获得控制台的输入流
-		//System.out.println("请输入你要操作的文件路径：");
+		System.out.println("请输入你要操作的文件路径：");
 		//String fileName = new String();//声明一个字符串
 		//Scanner scr = new Scanner(System.in);
 		//fileName = scr.nextLine();
