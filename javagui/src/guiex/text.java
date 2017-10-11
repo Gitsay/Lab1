@@ -5,6 +5,7 @@ import java.lang.*;
 import java.util.*;
 
 public class text {
+        //public int yub;
 	private static int max=Integer.MAX_VALUE;        //整数的最大值
 	public static AMWGraph graph ;                   //声明一个存储有向图的类的全局变量
 	public static String strle;

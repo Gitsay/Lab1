@@ -9,6 +9,7 @@ public class AMWGraph {
 	public int[][] edges;//邻接矩阵，用来存储边
 	public int numOfEdges;//边的数目
         public int muk;
+        //public int dun;
 
     public AMWGraph() {
     	

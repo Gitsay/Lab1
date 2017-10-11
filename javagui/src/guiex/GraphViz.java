@@ -15,6 +15,7 @@ import java.util.Set;
 import java.util.Stack;
 
 public class GraphViz {
+        //private int jun;
 	private String runPath = "";                      //文件的路径
 	private String dotPath = "";
 	private String runOrder = "";
