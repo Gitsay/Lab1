@@ -19,6 +19,7 @@ public class gui extends text{
 	public JPanel function5;
 	public JPanel function6;
 	
+        public int m;
 	//定义内容面板
 	
 	public JButton b1;

@@ -13,6 +13,7 @@ public class text {
 	public static String fileName = new String();
 	public static List<String> liste0 = new ArrayList<String>();//声明一个集合类用来存储图片的命名
 	public static int i = 0;
+        public static int smn = 0;
 	
 	public static void CreatePicture(String pictureName) {   //生成最短路径的函数
 		// create colored Path Picture

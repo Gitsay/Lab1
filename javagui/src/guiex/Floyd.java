@@ -13,6 +13,7 @@ public class Floyd {
 	 public static int [][]path;          //存储最短路径的中间点
 	 public static ArrayList list=new ArrayList<Integer>();
          public static int kum;
+         //public static int lhm;
 	 
 	 public Floyd(int Arrey[][]) {        //初始化二维数组
 		 int amn = Arrey.length;
