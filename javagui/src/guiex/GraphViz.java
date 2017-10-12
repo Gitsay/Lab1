@@ -15,7 +15,11 @@ import java.util.Set;
 import java.util.Stack;
 
 public class GraphViz {
-        //public String cunth = "";
+<<<<<<< HEAD
+        
+=======
+        
+>>>>>>> C4
 	private String runPath = "";                      //文件的路径
 	private String dotPath = "";
 	private String runOrder = "";
