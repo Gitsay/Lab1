@@ -14,10 +14,14 @@ public class Floyd {
 	 public static ArrayList list=new ArrayList<Integer>();
 <<<<<<< HEAD
          public static int kum;
+<<<<<<< HEAD
          //public static int mul;
 =======
          //public static int kum;
 >>>>>>> C4
+=======
+         //public static int lhm;
+>>>>>>> B2
 	 
 	 public Floyd(int Arrey[][]) {        //初始化二维数组
 		 int amn = Arrey.length;
