@@ -5,8 +5,12 @@ import java.lang.*;
 import java.util.*;
 
 public class text {
+<<<<<<< HEAD
         //public int yub;
 	private static int max=Integer.MAX_VALUE;        //整数的最大值
+=======
+	private static int max=Integer.MAX_VALUE;        
+>>>>>>> lwgit/1150320116
 	public static AMWGraph graph ;                   //声明一个存储有向图的类的全局变量
 	public static String strle;
 	public static String sureth;
@@ -15,10 +19,13 @@ public class text {
 	public static List<String> liste0 = new ArrayList<String>();//声明一个集合类用来存储图片的命名
 	public static int i = 0;
 <<<<<<< HEAD
+<<<<<<< HEAD
         //public static int n = 0;
 =======
         public static int smn = 0;
 >>>>>>> B2
+=======
+>>>>>>> lwgit/1150320116
 	
 	public static void CreatePicture(String pictureName) {   //生成最短路径的函数
 		// create colored Path Picture
@@ -39,7 +46,11 @@ public class text {
 	
 	public static void readfiles() {           //读取文件函数
 		//InputStreamReader rin = new InputStreamReader(System.in);     //获得控制台的输入流
+<<<<<<< HEAD
 		System.out.println("请输入你要操作的文件路径：");
+=======
+		//System.out.println("请输入你要操作的文件路径：");
+>>>>>>> lwgit/1150320116
 		//String fileName = new String();//声明一个字符串
 		//Scanner scr = new Scanner(System.in);
 		//fileName = scr.nextLine();
@@ -201,7 +212,11 @@ public class text {
 			if(Character.isLetter(exstr[cus])==false) {
 				//判断是否字符串内全部都是26个英文字母
 				if(zuc!=0) {
+<<<<<<< HEAD
 					//System.arraycopy(exstr, zmc , exstr1, 0, zuc);
+=======
+					System.arraycopy(exstr, zmc , exstr1, 0, zuc);
+>>>>>>> lwgit/1150320116
 					//赋值一定长度数组给另一个数组
 					zmc = zmc + zuc + 1;
 					//获取下一个数组的长度

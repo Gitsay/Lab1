@@ -19,8 +19,12 @@ public class gui extends text{
 	public JPanel function5;
 	public JPanel function6;
 	
+<<<<<<< HEAD
         public int m;
 	//定义内容面板
+=======
+	
+>>>>>>> lwgit/1150320116
 	
 	public JButton b1;
 	public JButton b2;
@@ -30,7 +34,11 @@ public class gui extends text{
 	public JButton b6;
 	public JButton b7;
 	public JButton b8;
+<<<<<<< HEAD
 	public JButton s2;//定义功能按键
+=======
+	public JButton s2;
+>>>>>>> lwgit/1150320116
 	
 	public JTextField textField;
 	public JTextField textField2;
@@ -85,7 +93,11 @@ public class gui extends text{
 			
 			
 		    b1 = new JButton("确认");
+<<<<<<< HEAD
 		    textField = new JTextField("请输入文件地址");
+=======
+		    textField = new JTextField("请输入地址");
+>>>>>>> lwgit/1150320116
 			b1.setBounds(80,40,100,20);
 			textField.setBounds(0, 0, 300, 20);
 			

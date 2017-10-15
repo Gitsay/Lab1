@@ -16,11 +16,15 @@ import java.util.Stack;
 
 public class GraphViz {
 <<<<<<< HEAD
+<<<<<<< HEAD
         
 =======
         
 >>>>>>> C4
 	private String runPath = "";                      //文件的路径
+=======
+	private String runPath = "";                      
+>>>>>>> lwgit/1150320116
 	private String dotPath = "";
 	private String runOrder = "";
 	private String dotCodeFile = "graph.dot";

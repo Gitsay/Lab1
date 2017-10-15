@@ -5,6 +5,7 @@ import java.lang.*;
 
 public class AMWGraph {
 	public String[] vertex;
+<<<<<<< HEAD
 	public int numvertex;//存储点的个数
 	public int[][] edges;//邻接矩阵，用来存储边
 	public int numOfEdges;//边的数目
@@ -13,6 +14,11 @@ public class AMWGraph {
 =======
         
 >>>>>>> C4
+=======
+	public int numvertex;
+	public int[][] edges;
+	public int numOfEdges;//边的数目
+>>>>>>> lwgit/1150320116
 
     public AMWGraph() {
     	

@@ -5,13 +5,18 @@ import java.util.*;
 public class Floyd {
 	 /*
 	  * 给出一个含有n个顶点的带权有向图，要求其每一对顶点之间的最短路径。
+<<<<<<< HEAD
 	  * 这里采用佛洛依德(Floyd)最短路径算法：
+=======
+	  * 
+>>>>>>> lwgit/1150320116
 	  */
 
 	 private static int max=Integer.MAX_VALUE;
 	 public static int [][]dist;          //存储最短路径的长度
 	 public static int [][]path;          //存储最短路径的中间点
 	 public static ArrayList list=new ArrayList<Integer>();
+<<<<<<< HEAD
 <<<<<<< HEAD
          public static int kum;
 <<<<<<< HEAD
@@ -22,6 +27,8 @@ public class Floyd {
 =======
          //public static int lhm;
 >>>>>>> B2
+=======
+>>>>>>> lwgit/1150320116
 	 
 	 public Floyd(int Arrey[][]) {        //初始化二维数组
 		 int amn = Arrey.length;
